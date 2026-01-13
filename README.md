@@ -49,7 +49,7 @@ README.md
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/eeg-mortality-pd.git
+git clone https://github.com/abm984/EEG_Mortality_Dataset_in_Parkinsons_Disease.git
 cd eeg-mortality-pd
 
 # Install dependencies
